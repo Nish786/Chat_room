@@ -1,0 +1,32 @@
+.App {
+  margin-top: 50vh;
+  text-align: center;
+}
+
+img {
+  width: 260px;
+  height: 260px;
+}
+h2 {
+  color: #41b883;
+}
+
+.app__form {
+  padding: 10px;
+  position: fixed;
+  bottom: 30px;
+  z-index: 1;
+  width: 50%;
+  background-color: whitesmoke;
+  margin: 0 20%;
+  border-radius: 20px;
+}
+
+.app__formControl {
+  display: flex !important;
+  flex-direction: row !important;
+}
+
+.app-input {
+  flex: 1;
+}

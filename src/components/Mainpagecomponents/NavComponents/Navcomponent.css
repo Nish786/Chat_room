@@ -1,0 +1,13 @@
+.logo{
+    height: 30px !important;
+    width: 30px !important;
+    border-radius: 7px;
+    justify-content: center !important;
+    margin-right: 5px !important;
+}
+.login{
+    margin-left:auto !important ;
+}
+.navbar{
+    justify-content: center !important;   
+}
